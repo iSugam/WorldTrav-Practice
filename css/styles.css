@@ -222,8 +222,10 @@ p{
     text-align: left;
   }
   
-    .book-now{
-     text-align:left;
+  .book-now{
+    text-align: center;
+    border-bottom-right-radius: 5rem 5rem;
+    border-bottom-left-radius: 5rem 5rem;
   }
 
 
