@@ -247,9 +247,8 @@ p{
 }
 
 .book-now:hover{
-
+  margin: 18% 5%;
   width: 21rem;
-  margin-top: 0;
   background-color: black;
   color: #800080;
   font-weight: 900;
