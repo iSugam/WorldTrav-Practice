@@ -223,7 +223,7 @@ p{
   }
   
     .book-now{
-      margin: 18% 15%;
+     text-align:left;
   }
 
 
@@ -247,7 +247,7 @@ p{
 }
 
 .book-now:hover{
-  margin: 18% 5%;
+/*   margin: 18% 5%; */
   width: 21rem;
   background-color: black;
   color: #800080;
