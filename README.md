@@ -1,2 +1,2 @@
 # WorldTrav-Practice
-First try.
+First try with HTML, CSS and Bootstrap.
