@@ -1,2 +1,2 @@
 # WorldTrav-Practice
-Just a first try.
+First try.
