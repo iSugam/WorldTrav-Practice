@@ -220,8 +220,14 @@ p{
   .download-buttons{
     margin: 2% 0;
     text-align: left;
-
   }
+  
+    .book-now{
+      margin: 18% 15%;
+  }
+
+
+
 
 }
 
