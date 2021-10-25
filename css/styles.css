@@ -195,12 +195,12 @@ p{
 
   .final-h3{
     font-size: 1rem;
-    padding-top: 3rem;
+   padding: 10rem 0 2rem 0;
   }
 
   .carousel-item{
   text-align: left;
-  /* padding-bottom: 50%; */
+  padding-bottom: 20%;
   }
 
   .quote-text{
