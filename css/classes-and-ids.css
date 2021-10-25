@@ -66,7 +66,7 @@ color: black;
 
 background-image: url("https://i2.wp.com/vietnaminsider.vn/wp-content/uploads/2021/02/Ta-Xua-sunrise.jpg?resize=900%2C600&ssl=1");
 background-size: cover;
-
+overflow:hidden;
 font-family: "Montserrat";
 line-height: 1.5;
 text-align: center;
