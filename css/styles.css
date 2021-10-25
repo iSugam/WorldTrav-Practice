@@ -175,6 +175,10 @@ p{
 
 @media (max-width: 1015px){
   
+ .navbar{
+    background-color: #fafad2;
+  }
+  
 .navbar .navbar-toggler{
   margin-right: 5rem;
   background-color: 	#808080;
