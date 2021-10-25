@@ -195,12 +195,12 @@ p{
 
   .final-h3{
     font-size: 1rem;
-   padding: 10rem 0 2rem 0;
+   padding: 150px 0 40px 0;
   }
 
   .carousel-item{
   text-align: left;
-  padding-bottom: 20%;
+  padding-bottom: 25%;
   }
 
   .quote-text{
@@ -240,6 +240,10 @@ p{
     margin: 4rem;
   }
 
+  .booking-cta{
+    padding-bottom: 40px;
+  }
+  
 
 
 
